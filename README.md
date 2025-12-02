@@ -1,16 +1,76 @@
-## Hi there 👋
+# Nombulelo96_Junior_Data_Analyst
+Hi there 👋 I'm Nombulelo Mahlangu
 
-<!--
-**Nombulelo96/Nombulelo96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Current Role: Data Analytics Intern
+📘 Currently Learning: Python for data analysis, Power BI, Excel and dashboard development
+🚀 Aspiring: Data Analyst 
+💡 Passionate About: Turning data into meaningful insights, building dashboards, and using analytics to solve real-world problems.https://github.com/Nombulelo96/Nombulelo96_Junior_Data_Analyst/tree/main
 
-Here are some ideas to get you started:
+# 🛠 Tech Stack
+# Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python
+
+SQL (beginner)
+
+DAX (Power BI basics)
+
+# Tools & Technologies
+
+Power BI
+
+Excel 
+
+Python Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
+Jupyter Notebook
+
+Git & GitHub
+
+# 📊 Internship Work (Data Analytics)
+
+During my internship, I’ve been involved in both data operations and analytical work, including:
+
+# Education Data: OLA Students (Rural Primary Schools)
+
+Capturing, cleaning, and organizing learner data for rural primary schools partnered with the Good Work Foundation
+
+Ensuring accuracy, completeness, and consistency of student records
+
+Preparing structured datasets for analysis and reporting
+
+# Service Desk Analytics
+
+Tracking and recording service desk activity and usage
+
+Analyzing tickets logged, user engagement, and system usage patterns
+
+Building simple dashboards to visualize operational trends
+
+# General Data Analytics Responsibilities
+
+Cleaning and transforming datasets using Python and Excel
+
+Creating visualizations with Looker studio and Power BI
+
+Providing insights to support internal decision-making
+
+# 📊 Featured Projects
+# 1. Students' Performance & Habits Analysis
+
+Objective: Identify how study habits, attendance, and personal factors impact student performance.
+Repo: https://github.com/Nombulelo96/Students-Habits-and-Performance
+
+# 2. Loan Application Insights
+
+Objective: Explore approval patterns, risk indicators, and borrower characteristics to support data-driven lending decisions.
+Repo:https://github.com/Nombulelo96/Loan-Application
+
+# 3. Rural Health Tracker
+
+Objective: Analyze health trends in rural areas to highlight gaps in access, common illnesses, and community risk factors.
+Repo:https://github.com/Nombulelo96/Rural-Health-Tracker
+
+# 📬 Contact Me
+E-mail: lelomahlangu96@gmail.com
+LinkedIn: https://www.linkedin.com/in/nombulelo-mahlangu/
