@@ -1,10 +1,10 @@
 # Nombulelo96_Junior_Data_Analyst
 Hi there 👋 I'm Nombulelo Mahlangu
 
-# 🎓 Current Role: Data Analytics Intern
-# 📘 Currently Learning: Python for data analysis, Power BI, Excel and dashboard development
-# 🚀 Aspiring: Data Analyst 
-# 💡 Passionate About: Turning data into meaningful insights, building dashboards, and using analytics to solve real-world problems.https://github.com/Nombulelo96/Nombulelo96_Junior_Data_Analyst/tree/main
+🎓 Current Role: Data Analytics Intern
+📘 Currently Learning: Python for data analysis, Power BI, Excel and dashboard development
+🚀 Aspiring: Data Analyst 
+💡 Passionate About: Turning data into meaningful insights, building dashboards, and using analytics to solve real-world problems.https://github.com/Nombulelo96/Nombulelo96_Junior_Data_Analyst/tree/main
 
 # 🛠 Tech Stack
 # Languages
